@@ -1,4 +1,4 @@
-# RBPodo
+# RBPodo ERL
 
 <p>
 <a href="https://github.com/RainbowRobotics/rbpodo/actions">
